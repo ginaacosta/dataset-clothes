@@ -20,12 +20,12 @@ item {
 
 item {
     id: 5
-    name: 'jeans'
+    name: 'hats'
 }
 
 item {
     id: 6
-    name: 'socks'
+    name: 'shorts'
 }
 
 item {
@@ -40,7 +40,7 @@ item {
 
 item {
     id: 9
-    name: 'trousers'
+    name: 'bags'
 }
 
 item {
